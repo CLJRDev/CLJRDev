@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cljrdev&show_icons=true&locale=en" alt="cljrdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cljrdev&" alt="cljrdev" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=cljrdev&theme=dark" alt="GitHub Streak" /></a>
