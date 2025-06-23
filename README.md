@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Pegatron Vietnam**
 
-- 🌱 I’m currently learning **Laravel, ASP .NET, AngularJS**
+- 🌱 I’m currently learning **Natural Language Processing, Computer Vision, Deep Learning**
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **CS and Web development**
 
 - 📫 How to reach me **nclam.work.2002@gmail.com**
 
