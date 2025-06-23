@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Pegatron Vietnam**
 
-- 🌱 I’m currently learning **Natural Language Processing, Computer Vision, DL**
+- 🌱 I’m currently learning **NLP, Computer Vision, Deep Learning**
 
 - 💬 Ask me about **CS and Web development**
 
